@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+mkdir -p "$HOME/Documents/knight-school-os-session-plans"
+file="$HOME/Documents/knight-school-os-session-plans/plan-$(date +%Y%m%d-%H%M%S).md"
+{
+ printf '# knight-school-os session plan\n\n'
+ printf 'Created: %s\n\n' "$(date -Is)"
+ printf 'Purpose: chess study\n\n## Prompts\n'
+ printf '%s\n' '- What question or topic are you studying?' '- What is one measurable learning goal?' '- Which sources or materials will you use?'
+ printf '\n## Notes\n'
+} > "$file"
+nano "$file"
+printf 'Saved locally: %s\n' "$file"
