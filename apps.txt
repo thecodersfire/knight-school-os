@@ -4,7 +4,19 @@ com.vscodium.codium
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.zotero.Zotero
 net.ankiweb.Anki
 com.github.johnfactotum.Foliate
+
+# Ten additional preinstalled purpose-specific applications
+com.calibre_ebook.calibre
+org.thonny.Thonny
+org.godotengine.Godot
+org.qgis.qgis
+org.gnome.Papers
+org.gnome.Calculator
+org.gnome.Calendar
+org.gnome.clocks
+org.gnome.Maps
+org.gnome.Weather
