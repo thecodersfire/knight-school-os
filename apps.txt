@@ -3,3 +3,8 @@ org.libreoffice.LibreOffice
 com.vscodium.codium
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.zotero.Zotero
+net.ankiweb.Anki
+com.github.johnfactotum.Foliate
