@@ -54,3 +54,4 @@ org.kde.kbibtex
 org.kde.konsole
 org.kde.kpat
 org.kde.knights
+org.blender.Blender
