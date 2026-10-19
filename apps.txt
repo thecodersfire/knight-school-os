@@ -37,3 +37,20 @@ org.librecad.librecad
 org.gnome.SimpleScan
 org.gnome.Boxes
 org.gnome.TextEditor
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.gcompris
+org.kde.kgeography
+org.kde.kstars
+org.kde.minuet
+org.kde.ktouch
+org.kde.okular
+com.github.flxzt.rnote
+org.kde.kcalc
+org.kde.kdevelop
+org.kde.kate
+org.kde.kclock
+org.kde.kbibtex
+org.kde.konsole
+org.kde.kpat
+org.kde.knights

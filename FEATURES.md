@@ -61,3 +61,25 @@ These applications add tools suited to this setup focus. They are installed from
 15. **GNOME Text Editor** (org.gnome.TextEditor) — edit plain-text notes and configuration files.
 
 Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
+
+## Fifteen further purpose-specific preinstalled applications
+
+This second batch adds another set of apps selected for this setup’s purpose. They are installed from Flathub by the setup scripts.
+
+1. **GCompris** (org.kde.gcompris) — practice early math, reading, science, and computer skills through activities.
+2. **KGeography** (org.kde.kgeography) — practice country, capital, and map recognition.
+3. **KStars** (org.kde.kstars) — plan sky observations and explore astronomy simulations.
+4. **Minuet** (org.kde.minuet) — practice music theory and ear-training exercises.
+5. **KTouch** (org.kde.ktouch) — practice touch typing and improve keyboard speed.
+6. **Okular** (org.kde.okular) — read, bookmark, and annotate technical drawings, reading lists, and reference PDFs.
+7. **Rnote** (com.github.flxzt.rnote) — sketch diagrams, write by hand, and annotate pictures or documents.
+8. **KCalc** (org.kde.kcalc) — run scientific and unit calculations for coursework or technical work.
+9. **KDevelop** (org.kde.kdevelop) — edit, navigate, build, and debug software projects.
+10. **Kate** (org.kde.kate) — edit configuration, code, notes, and structured project files.
+11. **Clock** (org.kde.kclock) — set study, work, and routine timers with alarms and a stopwatch.
+12. **KBibTeX** (org.kde.kbibtex) — maintain BibTeX citations for research and technical writing.
+13. **Konsole** (org.kde.konsole) — run shell commands and inspect development or system tasks.
+14. **KPatience** (org.kde.kpat) — play a collection of solitaire card games.
+15. **KNights** (org.kde.knights) — study and play chess against a person or engine.
+
+Game frontends do not include proprietary game data; add only games or files you are allowed to use.
