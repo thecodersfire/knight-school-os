@@ -6,6 +6,8 @@
 - Ubuntu and Canonical marks belong to Canonical. This project is not endorsed by Canonical, Mozilla, or Opera.
 - Do not commit ISO files, vendor binaries, credentials, or proprietary logos. Check the upstream terms before distributing a modified Ubuntu image.
 
+- GeoGebra Classic is proprietary software distributed via its Flathub listing; its own license and terms apply.
+
 Informational note, not legal advice.
 
 - [Ubuntu intellectual property policy](https://ubuntu.com/legal/intellectual-property-policy)

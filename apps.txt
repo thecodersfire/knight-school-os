@@ -20,3 +20,20 @@ org.gnome.Calendar
 org.gnome.clocks
 org.gnome.Maps
 org.gnome.Weather
+
+# Fifteen additional preinstalled purpose-specific applications
+org.geogebra.GeoGebra
+org.stellarium.Stellarium
+com.github.xournalpp.xournalpp
+org.jabref.jabref
+org.musescore.MuseScore
+org.gnome.Shotwell
+org.kde.digikam
+org.mozilla.Thunderbird
+org.gnome.Evolution
+org.gnome.gitg
+io.dbeaver.DBeaverCommunity
+org.librecad.librecad
+org.gnome.SimpleScan
+org.gnome.Boxes
+org.gnome.TextEditor
